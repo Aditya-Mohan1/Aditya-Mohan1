@@ -2,7 +2,6 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Python, Java, GenAI
 - 💞️ I’m looking to collaborate on GenAI, Microservices architecture
-- 📫 How to reach me personal email - adimohan93@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Don't Think Too Hard About It + Have Fun With It
 
